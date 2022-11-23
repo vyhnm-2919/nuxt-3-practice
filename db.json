@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todos": [],
+  "tags": [
+    {
+      "title": "Task",
+      "color": {
+        "id": "1",
+        "background": "bg-rose-300",
+        "name": "Rose"
+      },
+      "id": 2
+    },
+    {
+      "title": "CR",
+      "color": {
+        "id": "1",
+        "background": "bg-rose-300",
+        "name": "Rose"
+      },
+      "id": 3
+    },
+    {
+      "title": "Warning",
+      "color": {
+        "id": "2",
+        "background": "bg-orange-300",
+        "name": "Orange"
+      },
+      "id": 4
+    },
+    {
+      "title": "Thích thì làm không thích thì thôi",
+      "color": {
+        "id": "19",
+        "background": "bg-purple-300",
+        "name": "Purple"
+      },
+      "id": 5
+    },
+    {
+      "title": "housework",
+      "color": {
+        "id": "12",
+        "background": "bg-emerald-300",
+        "name": "Emerald"
+      },
+      "id": 6
+    },
+    {
+      "title": "aasAsaSas",
+      "color": {
+        "id": "2",
+        "background": "bg-gray-300",
+        "name": "Gray"
+      },
+      "id": 7
+    },
+    {
+      "title": "ehehe",
+      "color": {
+        "id": "10",
+        "background": "bg-lime-300",
+        "name": "Lime"
+      },
+      "id": 8
+    },
+    {
+      "title": "philosophy",
+      "color": {
+        "id": "7",
+        "background": "bg-orange-300",
+        "name": "Orange"
+      },
+      "id": 9
+    }
+  ]
+}

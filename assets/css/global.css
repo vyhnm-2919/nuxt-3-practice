@@ -1,0 +1,7 @@
+.router-link-active {
+  color: rgb(29 78 216) !important;
+}
+
+.main-layout {
+  min-height: calc(100vh - 72px);
+}
